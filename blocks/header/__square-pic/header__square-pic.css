@@ -7,5 +7,4 @@
   position: absolute;
   align-self: flex-end;
   z-index: 1;
-  animation: rotation 20s linear infinite;
 }

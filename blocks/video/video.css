@@ -1,0 +1,7 @@
+.video {
+  min-width: 1100px;
+  max-width: 1600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
